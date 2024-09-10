@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":612,"text":"Ever wonder what makes a house a home? "},{"start":3189,"text":"It's family."},{"start":4665,"text":"Family is the heartbeat of our lives."},{"start":7243,"text":"They're the ones who cheer us on when we succeed"},{"start":10450,"text":"and lift us up when we fall."},{"start":12617,"text":" They're our first teachers"},{"start":14890,"text":" showing us how to love, "},{"start":16325,"text":"how to forgive, "},{"start":17532,"text":"and how to grow."},{"start":19831,"text":" In a world that's constantly changing,"},{"start":22162,"text":" family is our rock,"},{"start":23826,"text":"a constant source of love, laughter, and support."},{"start":27767,"text":"So let's treasure our families,"},{"start":29927,"text":" for they are the truest treasure we'll ever have."},{"start":33481,"text":"Because with family by our side,"},{"start":35691,"text":"we can weather any storm"},{"start":37067,"text":" and celebrate every joy."}]}]};
+    window.globalLoadJsAsset('story_content/5dAtWd2qSI5_transcripts.js', JSON.stringify(data));
+})();
